@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a number of full stack applications
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about my .gif creator and other depoloyed apps.  Spolier: I'm converting video then uploading to an S3 bucket
-- 📫 How to reach me: me@timdanderson.com
+- 📫 How to reach me: me@TimDAnderson.com
 
 <!--
 **TimDAnderson/TimDAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

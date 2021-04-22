@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Tim Anderson and I am a full stack developer
+My name is Tim Anderson and I am a full stack developer
 
 <!--
 **TimDAnderson/TimDAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

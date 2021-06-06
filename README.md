@@ -6,9 +6,10 @@
 - 💬 Ask me about my .gif creator and other depoloyed apps.  Spolier: I'm converting video with FFMPEG then uploading to an S3 bucket
 - 📫 Email: me@TimDAnderson.com
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson)
+![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson&show_icons=true)
+)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDAnderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDAnderson&layout=compact&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

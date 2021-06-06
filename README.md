@@ -12,9 +12,15 @@ Programming Languages:\
 ![icons8-typescript-48](https://user-images.githubusercontent.com/71040019/120941239-65506280-c6d6-11eb-980a-84fac2bb49bd.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/71040019/120941242-67b2bc80-c6d6-11eb-9166-c981c839c51a.png)
 
+Libraries and Frameworks:\
+![icons8-react-16](https://user-images.githubusercontent.com/71040019/120941533-0f7cba00-c6d8-11eb-9122-3c7eb04deef9.png)
+
+Databases:\
+
 
 Deployment Technologies: \
 ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
+![icons8-grunt-32](https://user-images.githubusercontent.com/71040019/120941542-13104100-c6d8-11eb-9d05-06cb911b8c24.png)
 
 
 Stats:

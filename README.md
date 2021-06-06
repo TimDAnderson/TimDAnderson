@@ -8,7 +8,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDAnderson)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDAnderson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--

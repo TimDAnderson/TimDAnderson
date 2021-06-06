@@ -6,7 +6,7 @@
 - 💬 Ask me about my .gif creator and other depoloyed apps.  Spolier: I'm converting video with FFMPEG then uploading to an S3 bucket
 - 📫 Email: me@TimDAnderson.com
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TimDAnderson&repo=TimDAnderson)
+![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson)
 
 <!--
 **TimDAnderson/TimDAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

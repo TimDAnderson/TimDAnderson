@@ -16,12 +16,12 @@ Libraries and Frameworks:\
 ![icons8-react-16](https://user-images.githubusercontent.com/71040019/120941533-0f7cba00-c6d8-11eb-9122-3c7eb04deef9.png)
 
 Databases:\
+<img src="https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png" width="45" height="45">
+![png-clipart-apache-cassandra-apache-http-server-database-management-system-nosql-others-miscellaneous-cloud](https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png)
 
 
 Deployment Technologies:\
 ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
-![icons8-grunt-32](https://user-images.githubusercontent.com/71040019/120941542-13104100-c6d8-11eb-9d05-06cb911b8c24.png)
-![icons8-grunt-32 (1)](https://user-images.githubusercontent.com/71040019/120941590-4a7eed80-c6d8-11eb-8cbf-f146c7cad253.png)
 <img src="https://user-images.githubusercontent.com/71040019/120941590-4a7eed80-c6d8-11eb-8cbf-f146c7cad253.png" width="45" height="45">
 
 

@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDAnderson&layout=compact&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
-Deployment Technologies: \n
+Deployment Technologies: \
 ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
 
 

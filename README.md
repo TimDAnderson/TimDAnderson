@@ -17,7 +17,6 @@ Libraries and Frameworks:\
 
 Databases:\
 <img src="https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png" width="45" height="45">
-![png-clipart-apache-cassandra-apache-http-server-database-management-system-nosql-others-miscellaneous-cloud](https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png)
 
 
 Deployment Technologies:\

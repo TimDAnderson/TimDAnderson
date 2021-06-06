@@ -18,12 +18,13 @@ Libraries and Frameworks:\
 Databases:\
 
 
-Deployment Technologies: \
+Deployment Technologies:\
 ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
 ![icons8-grunt-32](https://user-images.githubusercontent.com/71040019/120941542-13104100-c6d8-11eb-9d05-06cb911b8c24.png)
+![icons8-grunt-32 (1)](https://user-images.githubusercontent.com/71040019/120941590-4a7eed80-c6d8-11eb-8cbf-f146c7cad253.png)
 
 
-Stats:
+Stats:\
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson&show_icons=true)
 
 

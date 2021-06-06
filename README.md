@@ -7,7 +7,7 @@
 - 📫 Email: me@TimDAnderson.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson&show_icons=true)
-)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDAnderson&layout=compact&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 

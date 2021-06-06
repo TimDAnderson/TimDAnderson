@@ -13,12 +13,15 @@ Programming Languages:\
 ![icons8-python-48](https://user-images.githubusercontent.com/71040019/120941242-67b2bc80-c6d6-11eb-9166-c981c839c51a.png)
 
 Libraries and Frameworks:\
-![icons8-react-16](https://user-images.githubusercontent.com/71040019/120941533-0f7cba00-c6d8-11eb-9122-3c7eb04deef9.png)
+![icons8-react-native-48](https://user-images.githubusercontent.com/71040019/120942024-f1648900-c6da-11eb-9ab8-7ffd26c40ce3.png)
+![icons8-jquery-50](https://user-images.githubusercontent.com/71040019/120942040-06411c80-c6db-11eb-926c-94458a17706d.png)
+
 
 Databases:\
 <img src="https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png" width="45" height="45">
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/71040019/120941888-27553d80-c6da-11eb-88d3-4052534b3e64.png)
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/71040019/120941919-4227b200-c6da-11eb-9d90-bdcd938eaffd.png)
+![icons8-mongodb-48](https://user-images.githubusercontent.com/71040019/120942009-d09c3380-c6da-11eb-99e9-4ff8a972968e.png)
 
 
 Deployment Technologies:\
@@ -26,8 +29,12 @@ Deployment Technologies:\
 <img src="https://user-images.githubusercontent.com/71040019/120941590-4a7eed80-c6d8-11eb-8cbf-f146c7cad253.png" width="45" height="45">
 ![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/71040019/120941854-f37a1800-c6d9-11eb-8852-87dea6254468.png)
 ![icons8-heroku-48](https://user-images.githubusercontent.com/71040019/120941871-0db3f600-c6da-11eb-9d03-bad785d919e9.png)
+![icons8-let's-encrypt-48](https://user-images.githubusercontent.com/71040019/120942093-6a63e080-c6db-11eb-87e3-76a30ae4ebd1.png)
+![icons8-nginx-48](https://user-images.githubusercontent.com/71040019/120942094-6b950d80-c6db-11eb-8950-ebafcd9cfe32.png)
 
 Testing:\
+![icons8-travis-ci-48](https://user-images.githubusercontent.com/71040019/120942173-ececa000-c6db-11eb-8442-f8aeb9626b51.png)
+
 
 Stats:\
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson&show_icons=true)

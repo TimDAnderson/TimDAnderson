@@ -18,15 +18,16 @@ Libraries and Frameworks:\
 
 
 Databases:\
-<img src="https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png" width="45" height="45">
+<img src="https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png" width="48" height="48">
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/71040019/120941888-27553d80-c6da-11eb-88d3-4052534b3e64.png)
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/71040019/120941919-4227b200-c6da-11eb-9d90-bdcd938eaffd.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/71040019/120942009-d09c3380-c6da-11eb-99e9-4ff8a972968e.png)
 
 
+
 Deployment Technologies:\
 ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
-<img src="https://user-images.githubusercontent.com/71040019/120941590-4a7eed80-c6d8-11eb-8cbf-f146c7cad253.png" width="45" height="45">
+<img src="https://user-images.githubusercontent.com/71040019/120945984-ce909f80-c6ef-11eb-94c2-ca5a2c536471.png" width="48" height="48">
 ![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/71040019/120941854-f37a1800-c6d9-11eb-8852-87dea6254468.png)
 ![icons8-heroku-48](https://user-images.githubusercontent.com/71040019/120941871-0db3f600-c6da-11eb-9d03-bad785d919e9.png)
 ![icons8-let's-encrypt-48](https://user-images.githubusercontent.com/71040019/120942093-6a63e080-c6db-11eb-87e3-76a30ae4ebd1.png)

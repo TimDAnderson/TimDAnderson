@@ -37,10 +37,8 @@ Testing:\
 ![icons8-travis-ci-48](https://user-images.githubusercontent.com/71040019/120942173-ececa000-c6db-11eb-8442-f8aeb9626b51.png)
 
 
-Stats:\
-\
+Statistics:\
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson&show_icons=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimDAnderson&layout=compact&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 

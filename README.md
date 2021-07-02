@@ -46,12 +46,12 @@ Deployment Technologies:
 ![Grunt](https://img.shields.io/badge/-Grunt-orange)&nbsp;
 
 
-![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
+<!-- ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
 <img src="https://user-images.githubusercontent.com/71040019/120945984-ce909f80-c6ef-11eb-94c2-ca5a2c536471.png" width="48" height="48">
 ![icons8-amazon-web-services-48](https://user-images.githubusercontent.com/71040019/120941854-f37a1800-c6d9-11eb-8852-87dea6254468.png)
 ![icons8-heroku-48](https://user-images.githubusercontent.com/71040019/120941871-0db3f600-c6da-11eb-9d03-bad785d919e9.png)
 ![icons8-let's-encrypt-48](https://user-images.githubusercontent.com/71040019/120942093-6a63e080-c6db-11eb-87e3-76a30ae4ebd1.png)
-![icons8-nginx-48](https://user-images.githubusercontent.com/71040019/120942094-6b950d80-c6db-11eb-8950-ebafcd9cfe32.png)
+![icons8-nginx-48](https://user-images.githubusercontent.com/71040019/120942094-6b950d80-c6db-11eb-8950-ebafcd9cfe32.png) -->
 
 Testing:
 <!-- ![icons8-travis-ci-48](https://user-images.githubusercontent.com/71040019/120942173-ececa000-c6db-11eb-8442-f8aeb9626b51.png) -->

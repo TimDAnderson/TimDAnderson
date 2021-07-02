@@ -43,6 +43,8 @@ Deployment Technologies:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-blue)&nbsp;
+![Grunt](https://img.shields.io/badge/-Grunt-orange)&nbsp;
+
 
 ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)
 <img src="https://user-images.githubusercontent.com/71040019/120945984-ce909f80-c6ef-11eb-94c2-ca5a2c536471.png" width="48" height="48">
@@ -56,9 +58,7 @@ Testing:
 ![Travis CI](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Enzyme](https://img.shields.io/badge/-Enzyme-red)&nbsp;
-![Mocha](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)&nbsp;
-![Chai](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
+![Mocha](https://img.shields.io/badge/-Mocha-lightgrey)&nbsp;
 
 # Statistics:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TimDAnderson&show_icons=true)

@@ -7,27 +7,45 @@
 - 💬 Ask me about my .gif creator and other deployed apps.  Spolier: I'm converting video with FFMPEG then uploading to an S3 bucket
 - 📫 Email: me@TimDAnderson.com
 
-Programming Languages:
+Languages:
 
 <!-- https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-![icons8-javascript-48](https://user-images.githubusercontent.com/71040019/120941235-63869f00-c6d6-11eb-997d-f0a08983ef24.png)
+<!-- ![icons8-javascript-48](https://user-images.githubusercontent.com/71040019/120941235-63869f00-c6d6-11eb-997d-f0a08983ef24.png)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/71040019/120941239-65506280-c6d6-11eb-980a-84fac2bb49bd.png)
-![icons8-python-48](https://user-images.githubusercontent.com/71040019/120941242-67b2bc80-c6d6-11eb-9166-c981c839c51a.png)
+![icons8-python-48](https://user-images.githubusercontent.com/71040019/120941242-67b2bc80-c6d6-11eb-9166-c981c839c51a.png) -->
 
 Libraries and Frameworks:\
-![icons8-react-native-48](https://user-images.githubusercontent.com/71040019/120942024-f1648900-c6da-11eb-9ab8-7ffd26c40ce3.png)
-![icons8-jquery-50](https://user-images.githubusercontent.com/71040019/120942040-06411c80-c6db-11eb-926c-94458a17706d.png)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
+
+
+<!-- ![icons8-react-native-48](https://user-images.githubusercontent.com/71040019/120942024-f1648900-c6da-11eb-9ab8-7ffd26c40ce3.png)
+![icons8-jquery-50](https://user-images.githubusercontent.com/71040019/120942040-06411c80-c6db-11eb-926c-94458a17706d.png) -->
 
 
 Databases:\
-<img src="https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png" width="48" height="48">
+<!-- <img src="https://user-images.githubusercontent.com/71040019/120941737-2cfe5380-c6d9-11eb-8889-4ba6e2c240c7.png" width="48" height="48">
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/71040019/120941888-27553d80-c6da-11eb-88d3-4052534b3e64.png)
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/71040019/120941919-4227b200-c6da-11eb-9d90-bdcd938eaffd.png)
-![icons8-mongodb-48](https://user-images.githubusercontent.com/71040019/120942009-d09c3380-c6da-11eb-99e9-4ff8a972968e.png)
+![icons8-mongodb-48](https://user-images.githubusercontent.com/71040019/120942009-d09c3380-c6da-11eb-99e9-4ff8a972968e.png) -->
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Redis](	https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)&nbsp;
+![Mongo](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
 

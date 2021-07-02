@@ -57,7 +57,7 @@ Testing:\
 <!-- ![icons8-travis-ci-48](https://user-images.githubusercontent.com/71040019/120942173-ececa000-c6db-11eb-8442-f8aeb9626b51.png) -->
 ![Travis CI](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
-![Enzyme](https://img.shields.io/badge/enzyme-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![Enzyme](https://img.shields.io/badge/-Enzyme-red)&nbsp;
 ![Mocha](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)&nbsp;
 ![Mongo](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 

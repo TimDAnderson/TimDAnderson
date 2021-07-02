@@ -8,6 +8,10 @@
 - 📫 Email: me@TimDAnderson.com
 
 Programming Languages:\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
+
 ![icons8-javascript-48](https://user-images.githubusercontent.com/71040019/120941235-63869f00-c6d6-11eb-997d-f0a08983ef24.png)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/71040019/120941239-65506280-c6d6-11eb-980a-84fac2bb49bd.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/71040019/120941242-67b2bc80-c6d6-11eb-9166-c981c839c51a.png)

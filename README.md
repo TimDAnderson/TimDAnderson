@@ -7,6 +7,8 @@
 - 💬 Ask me about my .gif creator and other deployed apps.  Spolier: I'm converting video with FFMPEG then uploading to an S3 bucket
 - 📫 Email: me@TimDAnderson.com
 
+# 🛠  &nbsp;Tech Stack
+
 Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;

@@ -7,9 +7,6 @@
 - 💬 Ask me about my .gif creator and other depoloyed apps.  Spolier: I'm converting video with FFMPEG then uploading to an S3 bucket
 - 📫 Email: me@TimDAnderson.com
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![React](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
 Programming Languages:\
 ![icons8-javascript-48](https://user-images.githubusercontent.com/71040019/120941235-63869f00-c6d6-11eb-997d-f0a08983ef24.png)
 ![icons8-typescript-48](https://user-images.githubusercontent.com/71040019/120941239-65506280-c6d6-11eb-980a-84fac2bb49bd.png)

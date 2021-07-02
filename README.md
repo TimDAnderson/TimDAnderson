@@ -43,7 +43,7 @@ Deployment Technologies:
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-blue)&nbsp;
-![Grunt](https://img.shields.io/badge/-Grunt-orange)&nbsp;
+![Grunt](https://img.shields.io/badge/-Grunt-orange?logo='')&nbsp;
 
 
 <!-- ![icons8-docker-48](https://user-images.githubusercontent.com/71040019/120941094-ab58f680-c6d5-11eb-8a9f-41de2021dc24.png)

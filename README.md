@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a number of full stack applications
 - 🌱 I’m starting all new projects in TypeScript
-- 💬 Ask me about my .gif creator and other depoloyed apps.  Spolier: I'm converting video with FFMPEG then uploading to an S3 bucket
+- 💬 Ask me about my .gif creator and other deployed apps.  Spolier: I'm converting video with FFMPEG then uploading to an S3 bucket
 - 📫 Email: me@TimDAnderson.com
 
 Programming Languages:\

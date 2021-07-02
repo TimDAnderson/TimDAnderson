@@ -1,5 +1,5 @@
 
-# Hi there, I'm Tim Anderson 👋
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=29px>, I'm Tim Anderson!
 
 
 - 🔭 I’m currently working on a number of full stack applications
